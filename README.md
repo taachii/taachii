@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taachii
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning PHP and JS
+- 🌱 I’m currently learning Kotlin, Python and JS
 - 📫 How to reach me [taachii21@outlook.com](mailto:taachii21@outlook.com)
 <!---
 taachii/taachii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
